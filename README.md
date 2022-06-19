@@ -1,5 +1,5 @@
 # Embedded_Project_CanSat
-## DR.Ahmed Shalaby  & Eng.Midad
+## DR.Ahmed Shalaby  & Eng.Mida
 ## Table of content
 * [team of project](#team-of-project)
 * [project idea](#project-idea)
